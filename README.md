@@ -10,8 +10,8 @@
 <footer>Алиби Мамай</footer>
 <section>
   <h2>Резюме</h2>
-  <p>ФИО: мамай алиби
-   Номер: 87089497806
+  <p>ФИО: мамай алиби<br>
+   Номер: 87089497806<br>
   Gmail: mamajalibi828@gmail.com</p>
 </section>
 <article>
