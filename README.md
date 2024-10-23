@@ -23,7 +23,7 @@
   <source src="https://youtu.be/-zksrfq4waA?si=q72lEVhG405UR17R" type="https://youtu.be/-zksrfq4waA?si=q72lEVhG405UR17R">
 </video>
  <audio controls>
-       <li><a href="https://zvukogram.com/zvuk/32028/" target="_blank">Music</a></li>
+       <li><a href="https://lmusic.kz/mp3/akimmmich-bimo-qaitadan-bastama/185219" target="_blank">Music</a></li>
     </audio>
     <canvas id="myCanvas" width="200" height="100" style="border:1px solid #000000;"></canvas>
     <svg width="100" height="100">
