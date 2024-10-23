@@ -19,11 +19,9 @@
   <p>моя цель-окончить специальность web-дезайнер</p>
   <p>и стать хорошим специалистом в этой профессии</p>
 </article>
-<section>
    <video width="600" controls>
   <source src="https://youtu.be/-zksrfq4waA?si=q72lEVhG405UR17R" type="https://youtu.be/-zksrfq4waA?si=q72lEVhG405UR17R">target="_blank">
-</video>
-</section> 
+</video> 
    <audio controls>
        <li><a href="https://lmusic.kz/mp3/akimmmich-bimo-qaitadan-bastama/185219" target="_blank">Music</a></li>
     </audio>
